@@ -24,4 +24,4 @@
 * Learned about `git clone` command.
 * Learned about some additional bash commands: `man, cp`
 ---
-<img src="https://github.com/ignitikus/what-i-learned-in-week-0/blob/master/pictures/end.jpeg" alt="That's All Folks/>
+<img src="/pictures/end.jpeg" alt="That's All Folks/>
