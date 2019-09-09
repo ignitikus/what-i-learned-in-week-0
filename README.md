@@ -24,4 +24,4 @@
 * Learned about `git clone` command.
 * Learned about some additional bash commands: `man, cp`
 ---
-![That's All Folks] (/pictures/end.jpeg)
+![That's All Folks](/pictures/end.jpeg)
