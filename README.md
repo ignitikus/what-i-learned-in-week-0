@@ -10,8 +10,3 @@
 * Spent morning setting up MacBook
 * Learned about terminal common commands: pwd, ls, cd, mv, mkdir
 * Introduced to Visual Studio Code
-
-### ***Day 2***
-* Learned about Git.
-* Git is powerful program that is integrated in terminal.
-* 
