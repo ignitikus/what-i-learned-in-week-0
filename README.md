@@ -24,4 +24,4 @@
 * Learned about `git clone` command.
 * Learned about some additional bash commands: `man, cp`
 ---
-<img src="/pictures/end.jpeg" alt="That's All Folks/>
+![That's All Folks] (/pictures/end.jpeg)
