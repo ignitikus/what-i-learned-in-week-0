@@ -8,5 +8,13 @@
 
 ### ***Day 1***
 * Spent morning setting up MacBook
-* Learned about terminal common commands: pwd, ls, cd, mv, mkdir
-* Introduced to Visual Studio Code
+* Learned about terminal/bash common commands: pwd, ls, cd, mv, mkdir
+* Learned about flags such as `ls -a` that modifies a command to display all files in a directory.
+* Learned about MarkDown and its' functionality. It functions as simplified html.
+* Introduced to Visual Studio Code. A source code editor for variety of different languages.
+
+### ***Day 2***
+* Learned about functionality of Git.
+  * Git is a powerful program that is integrated in terminal.
+  * Git can be used online and offline. It stores all changes to a code. Which can be traced back. 
+* Learned how make a repository on GitHub and how to connect to it through terminal. 
